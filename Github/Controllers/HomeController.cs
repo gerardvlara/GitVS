@@ -10,6 +10,8 @@ namespace Github.Controllers
     {
         public ActionResult Index()
         {
+            //Este es el Controller Index!
+            //Comentario agregado por Gerard R. Vizcaino
             return View();
         }
 
